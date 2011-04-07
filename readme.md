@@ -5,8 +5,10 @@ thumbnails in a variety of styles.
 
 Installation
 ------------
-Simply require [grabbio.php][src] into your application and you are
+Simply require [grabbio.php][grabbio_src] into your application and you are
 then ready to use.
+
+[grabbio_src]: https://github.com/Gazler/grabbio-php/blob/master/src/grabbio.php
 
 Usage
 -----
@@ -65,7 +67,7 @@ Example Thumbnails
 ![Individual Thumbnail](http://grabb.io/images/individual_example_5.jpg)
 
 ###Gif
-![GIF](http://grabb.io/images/example.gif)
+![GIF](http://grabb.io/images/gif_example.gif)
 
 ###Capsheet
 ![Capsheet Example](http://grabb.io/images/capsheet_example.jpg)
