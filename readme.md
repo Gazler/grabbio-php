@@ -5,7 +5,7 @@ thumbnails in a variety of styles.
 
 Installation
 ------------
-Simply require [grabbio.php][src/grabbio.php] into your application and you are
+Simply require [grabbio.php][src] into your application and you are
 then ready to use.
 
 Usage
@@ -57,16 +57,16 @@ are supported.  Here are a few examples:
 Example Thumbnails
 ------------------
 ###Individual
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_0.jpg)
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_1.jpg)
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_2.jpg)
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_3.jpg)
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_4.jpg)
-![Individual Thumbnail](http://grabb.io/http://grabb.io/images/individual_example_5.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_0.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_1.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_2.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_3.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_4.jpg)
+![Individual Thumbnail](http://grabb.io/images/individual_example_5.jpg)
 
-###gif
-![GIF](http://grabb.io/http://grabb.io/images/example.gif)
+###Gif
+![GIF](http://grabb.io/images/example.gif)
 
 ###Capsheet
-![Capsheet Example](http://grabb.io/http://grabb.io/images/capsheet_example.jpg)
+![Capsheet Example](http://grabb.io/images/capsheet_example.jpg)
 
