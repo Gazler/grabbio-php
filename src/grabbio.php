@@ -300,7 +300,6 @@ class Grabbio
 	    }
 
 
-		$this->_makeCall();
 		return $this->_processResponse($this->_makeCall());
 	}
 

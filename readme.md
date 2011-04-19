@@ -1,7 +1,7 @@
 grabbio PHP SDK
 ==============
 The [grabbio platform](http://grabb.io) is an API that allows you to generate
-thumbnails in a variety of styles.
+video thumbnails in a variety of styles.
 
 Installation
 ------------
