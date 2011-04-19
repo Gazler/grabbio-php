@@ -266,6 +266,10 @@ class Grabbio
 	           throw new GrabbioException("Source URL Missing");
 	        }
 	    }
+	    else
+	    {
+	    	$this->_args['source'] = $source;
+	    }
 
 	    if ($uploadUrl === false)
 	    {
@@ -274,6 +278,11 @@ class Grabbio
 	           throw new GrabbioException("Upload URL Missing");
 	        }
 	    }
+	    else
+	    {
+	    	$this->_args['upload_url'] = $uploadUrl;
+	    }
+
 
 	    if ($width === 120)
 	    {
@@ -298,8 +307,6 @@ class Grabbio
 	    {
 	        $this->_args['height'] = $width;
 	    }
-
-
 		return $this->_processResponse($this->_makeCall());
 	}
 
